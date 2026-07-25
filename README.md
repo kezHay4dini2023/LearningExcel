@@ -28,3 +28,12 @@ this is to learn Excel
 ## Decision Maker (PART 3)
 - This is to make decision based on ratings and which has the highest grade.
 - utilized Conditional Formatting to look for the Top 10 percent. 
+
+<p align="center">
+  <img src="images\SalesReport.png" alt="qty" width="80%">
+</p>
+
+## Sales Report (PART 4) 
+- This [data](https://github.com/shadsluiter/ExcelExamples) is a sales database. 
+- utilized if, sumif, sort, filter functions. and pivot tables statement and graphs. 
+
