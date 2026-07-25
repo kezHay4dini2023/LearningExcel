@@ -16,7 +16,15 @@ this is to learn Excel
   <img src="images\Gradebook.png" alt="qty" width="80%">
 </p>
 
-## GradeBook (PART 2)
+## Grade Book (PART 2)
 - This is to grade employees on their performance on each Test
 - this exercise utilized Conditional Formatting such as scolor scales and Highlight Cell Rules. 
 - Utilize charts to visualize test results of employees.  
+
+<p align="center">
+  <img src="images\CareerDecisions.png" alt="qty" width="80%">
+</p>
+
+## Decision Maker (PART 3)
+- This is to make decision based on ratings and which has the highest grade.
+- utilized Conditional Formatting to look for the Top 10 percent. 
