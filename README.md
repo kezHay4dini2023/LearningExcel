@@ -63,3 +63,33 @@ this is to learn Excel
 - if statement was used to get the age. (solving the y2k problem). 
 - concatenate, UPPER, left and right function was used to get the new ID CAR. 
 - Pivot table was used to get the summary on the Top drivers with the most miles driven. 
+
+---
+
+### CHALLENGE (PART 6)
+
+- 1. School Shopping - listed the items. and the list of items and quantity that Tim and Susan are going to buy. and created a chart of the total potential cost to each of the store.
+<p align="center">
+  <img src="images\schoolShopping.png" alt="qty" width="80%">
+</p>
+
+- 2. Cat or Dog ? - compared the expenses between a cat and a dog for 1 year. 
+<p align="center">
+  <img src="images\catORdog.png" alt="CatorDog" width="80%">
+</p>
+
+- 3. Susan and Team would like to see the total sum of their expenses on 3 potential trips. they'd like to know which trip is the cheapest. 
+<p align="center">
+  Tim
+</p>
+<p align="center">
+  <img src="images\TimsVacation.png" alt="CatorDog" width="80%">
+</p>
+
+<p align="center">
+  Susan 
+</p>
+
+<p align="center">
+  <img src="images\susanVacation.png" alt="CatorDog" width="80%">
+</p>
