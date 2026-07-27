@@ -1,4 +1,4 @@
-# LearningExcel
+# DeepDivetoExcel
 this is to learn Excel 
 
  ---
@@ -67,6 +67,10 @@ this is to learn Excel
 ---
 
 ### CHALLENGE (PART 6)
+<p align="center">
+  This <a href="https://github.com/shadsluiter/ExcelExamples/blob/master/Problem%20Solving%20with%20Excel%20Spreadsheets%20Part%202.pdf">challenge</a> focuses on solving Excel problems by building spreadsheets with proper formulas and answering questions using graphs.
+</p>
+
 
 - 1. School Shopping - listed the items. and the list of items and quantity that Tim and Susan are going to buy. and created a chart of the total potential cost to each of the store.
 <p align="center">
@@ -92,4 +96,53 @@ this is to learn Excel
 
 <p align="center">
   <img src="images\susanVacation.png" alt="CatorDog" width="80%">
+</p>
+
+- 4. Susan and Tim would like to see which printer would cost the lowest in the next 2 years. 
+<p align="center">
+  Tim
+</p>
+<p align="center">
+  <img src="images\timprinter.png" alt="CatorDog" width="80%">
+</p>
+
+<p align="center">
+  Susan 
+</p>
+
+<p align="center">
+  <img src="images\susanprinter.png" alt="CatorDog" width="80%">
+</p>
+
+
+- 5. Susan and Tim would like to see which phone bill option would cost the least! 
+<p align="center">
+  Tim
+</p>
+<p align="center">
+  <img src="images\timphonebill.png" alt="CatorDog" width="80%">
+</p>
+
+<p align="center">
+  Susan 
+</p>
+
+<p align="center">
+  <img src="images\susanphonebill.png" alt="CatorDog" width="80%">
+</p>
+
+- 6. Susan and Tim options total cost for each cars. 
+<p align="center">
+  Tim
+</p>
+<p align="center">
+  <img src="images\susantotalcarcost.png" alt="CatorDog" width="80%">
+</p>
+
+<p align="center">
+  Susan 
+</p>
+
+<p align="center">
+  <img src="images\timtotalcarcost.png" alt="CatorDog" width="80%">
 </p>
